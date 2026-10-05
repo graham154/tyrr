@@ -10,12 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
   'http://127.0.0.1:5000',
-  'https://wbil.netlify.app',
-  'https://mbellbill.netlify.app',
-  'https://bellbusinesscanada.netlify.app',
-  'https://sunny-pastelito-8843b7.netlify.app',
-  'https://cbell.netlify.app',
-  'https://jhvnb.vercel.app',
+  'https://billbel.xo.je',
    // add all your trusted frontends here
 ];
 
